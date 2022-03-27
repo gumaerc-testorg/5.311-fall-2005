@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4b181a6c-030a-ce24-893d-63d8f0842e92
 resourcetype: Document
 title: kinetics_app2.pdf
 uid: 92ef0a20-6ade-e873-db3c-205a2196172f

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4b181a6c-030a-ce24-893d-63d8f0842e92
 resourcetype: Document
 title: uaca_appendix2.pdf
 uid: 28973df8-4f52-17dd-4ab0-67531dfdad5e

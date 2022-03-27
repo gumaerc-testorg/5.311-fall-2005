@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4b181a6c-030a-ce24-893d-63d8f0842e92
 resourcetype: Document
 title: ferrocene_app2.pdf
 uid: 352bf953-9a3c-5400-08cc-1e93e43c804d

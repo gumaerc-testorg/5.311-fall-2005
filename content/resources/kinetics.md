@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 4b181a6c-030a-ce24-893d-63d8f0842e92
 resourcetype: Document
 title: kinetics.pdf
 uid: 8a6de82f-bb63-e94a-23fb-c00782d3202c
