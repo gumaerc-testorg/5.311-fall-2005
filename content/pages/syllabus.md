@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: The syllabus section provides detailed information about the four experiments
+  on kinetics, NMR, unknown aromatic carboxylic acid and the preparation of ferrocene
+  and acetylferrocene by which students gain experience in these areas by completing
+  them.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 3d167dad-a4d5-cb58-a354-8e6b299e8ece
 ---
