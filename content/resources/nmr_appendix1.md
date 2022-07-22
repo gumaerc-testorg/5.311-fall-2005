@@ -6,6 +6,7 @@ file: /courses/5-311-introductory-chemical-experimentation-fall-2005/55c139cf43b
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nmr_appendix1.pdf
 uid: 55c139cf-43bb-c91e-f04a-cd4c7b25ba73
 ---
 This resource provides information on the simulation of H-NMR without a structure.
-

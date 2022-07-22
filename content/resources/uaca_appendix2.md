@@ -8,6 +8,7 @@ file: /courses/5-311-introductory-chemical-experimentation-fall-2005/28973df84f5
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 28973df8-4f52-17dd-4ab0-67531dfdad5e
 ---
 This resource provides brief introduction on the pattern of H NMR of benzoic acids
 analogs.
-

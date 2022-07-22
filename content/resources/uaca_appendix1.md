@@ -6,6 +6,7 @@ file: /courses/5-311-introductory-chemical-experimentation-fall-2005/926f5cafb5d
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: uaca_appendix1.pdf
 uid: 926f5caf-b5d2-1cf4-4d9c-cdc0a078130c
 ---
 Thie resource provides instruction on the operation of the accumet portable AP61 PH meter.
-

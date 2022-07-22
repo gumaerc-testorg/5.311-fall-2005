@@ -6,6 +6,7 @@ file: /courses/5-311-introductory-chemical-experimentation-fall-2005/352bf9539a3
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ferrocene_app2.pdf
 uid: 352bf953-9a3c-5400-08cc-1e93e43c804d
 ---
 This resource provides information about Semiempirical PM3 (Parametrization method 3), heat of formation calculation and solutions of the self-consistent equations.
-

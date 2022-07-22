@@ -6,6 +6,7 @@ file: /courses/5-311-introductory-chemical-experimentation-fall-2005/974fa458448
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ferrocene_app1.pdf
 uid: 974fa458-4486-8693-c847-94e091b06380
 ---
 This resource provides information about the electronic structure of ferrocene by semiempirical PM3 calculations with spartan 2.0.
-

@@ -6,6 +6,7 @@ file: /courses/5-311-introductory-chemical-experimentation-fall-2005/95a716ff2bb
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: kinetics_app1.pdf
 uid: 95a716ff-2bb7-d636-0d77-310b86124643
 ---
 This resource provides guidelines for measuring an UV-Vis spectrum using the Cary 100 Scan UV-Visible spectrophotometer and lamber-beer law.
-

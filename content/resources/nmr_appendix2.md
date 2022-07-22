@@ -6,6 +6,7 @@ file: /courses/5-311-introductory-chemical-experimentation-fall-2005/23cf24e4887
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nmr_appendix2.pdf
 uid: 23cf24e4-8879-e28c-8c18-4136dd341779
 ---
 This resource provides guidelines to operate varian mercury plus for getting a H NMR.
-
