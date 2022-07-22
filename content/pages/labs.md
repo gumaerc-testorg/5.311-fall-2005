@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The lab section lists the supporting files on the experiments covered
+  in the course with the topics on kinetics, NMR, unknown aromatic carboxylic acid,
+  and preparation of ferrocene and acetylferrocenes.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 4b181a6c-030a-ce24-893d-63d8f0842e92
 ---
@@ -27,7 +33,7 @@ APPENDICES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Kinetics ([PDF]({{< baseurl >}}/resources/kinetics)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+Kinetics ({{% resource_link 8a6de82f-bb63-e94a-23fb-c00782d3202c "PDF" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -36,32 +42,32 @@ Kinetics ([PDF]({{< baseurl >}}/resources/kinetics)) (Courtesy of Dr. Mircea Ghe
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-NMR ([PDF]({{< baseurl >}}/resources/nmr))
+NMR ({{% resource_link 886a5c26-55bd-19e2-83f1-8e1951cc1b6f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Appendix ([PDF]({{< baseurl >}}/resources/nmr_appendix1)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Unknown Aromatic Carboxylic Acid ([PDF ‑ 1.0MB]({{< baseurl >}}/resources/uaca))
-{{< tdclose >}}
-{{< tdopen >}}
-Appendix 1 ([PDF]({{< baseurl >}}/resources/uaca_appendix1)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)  
-  
-Appendix 2 ([PDF]({{< baseurl >}}/resources/uaca_appendix2))
+Appendix ({{% resource_link 55c139cf-43bb-c91e-f04a-cd4c7b25ba73 "PDF" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Preparation of Ferrocene and Acetylferrocenes ([PDF ‑ 1.5MB]({{< baseurl >}}/resources/ferrocene))
+Unknown Aromatic Carboxylic Acid ({{% resource_link 128c6343-6f92-b3bb-9b56-58cd21e81d7f "PDF ‑ 1.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Appendix 1 ([PDF]({{< baseurl >}}/resources/ferrocene_app1)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)  
+Appendix 1 ({{% resource_link 926f5caf-b5d2-1cf4-4d9c-cdc0a078130c "PDF" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)  
   
-Appendix 2 ([PDF]({{< baseurl >}}/resources/ferrocene_app2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+Appendix 2 ({{% resource_link 28973df8-4f52-17dd-4ab0-67531dfdad5e "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Preparation of Ferrocene and Acetylferrocenes ({{% resource_link 9917d701-9353-85a4-f430-2f330687d6f8 "PDF ‑ 1.5MB" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+Appendix 1 ({{% resource_link 974fa458-4486-8693-c847-94e091b06380 "PDF" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)  
+  
+Appendix 2 ({{% resource_link 352bf953-9a3c-5400-08cc-1e93e43c804d "PDF" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The syllabus section provides detailed information about the four experiments
+  on kinetics, NMR, unknown aromatic carboxylic acid and the preparation of ferrocene
+  and acetylferrocene by which students gain experience in these areas by completing
+  them.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3d167dad-a4d5-cb58-a354-8e6b299e8ece
 ---
@@ -22,7 +28,7 @@ This is an integrated experiment comprising topics from inorganic, organic, anal
 
 ### NMR
 
-This experiment is designed to introduce the basic concepts of nuclear magnetic resonance (NMR) spectroscopy - spin, energy levels, absorption of radiation, and several NMR spectral parameters, and to provide experience in identification of unknowns via 1H (proton) NMR spectra. A series of known samples will be used to introduce methods of sample preparation, operation of the NMR spectrometers, and 1H-NMR spectra from which students will measure chemical shifts, J-couplings and spectral intensities. Subsequently, students will record spectra of three unknowns and will use these spectra to determine the structure and identity of the compounds.
+This experiment is designed to introduce the basic concepts of nuclear magnetic resonance (NMR) spectroscopy - spin, energy levels, absorption of radiation, and several NMR spectral parameters, and to provide experience in identification of unknowns via {{< sup "1" >}}H (proton) NMR spectra. A series of known samples will be used to introduce methods of sample preparation, operation of the NMR spectrometers, and {{< sup "1" >}}H-NMR spectra from which students will measure chemical shifts, J-couplings and spectral intensities. Subsequently, students will record spectra of three unknowns and will use these spectra to determine the structure and identity of the compounds.
 
 ### Unknown Aromatic Carboxylic Acid
 
