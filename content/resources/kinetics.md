@@ -3,7 +3,8 @@ content_type: resource
 description: This resource provides information about kinetics of the oxidation of
   ascorbic acid by hexacyanoferrate (III) ion, the effect of sodium nitrate on the
   reaction rate, purpose of the experiment, general references, and analysis and discussion.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/8a6de82fbb63e94a23fbc00782d3202c_kinetics.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/8a6de82fbb63e94a23fbc00782d3202c_kinetics.pdf
+file_size: 287673
 file_type: application/pdf
 learning_resource_types:
 - Labs

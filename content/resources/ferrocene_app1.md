@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information about the electronic structure of
   ferrocene by semiempirical PM3 calculations with spartan 2.0.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/974fa45844868693c84794e091b06380_ferrocene_app1.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/974fa45844868693c84794e091b06380_ferrocene_app1.pdf
+file_size: 234304
 file_type: application/pdf
 learning_resource_types:
 - Labs

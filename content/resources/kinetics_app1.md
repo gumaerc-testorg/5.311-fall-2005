@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides guidelines for measuring an UV-Vis spectrum using
   the Cary 100 Scan UV-Visible spectrophotometer and lamber-beer law.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/95a716ff2bb7d6360d77310b86124643_kinetics_app1.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/95a716ff2bb7d6360d77310b86124643_kinetics_app1.pdf
+file_size: 258957
 file_type: application/pdf
 learning_resource_types:
 - Labs

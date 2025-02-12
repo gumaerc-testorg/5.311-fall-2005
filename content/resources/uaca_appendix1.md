@@ -2,7 +2,8 @@
 content_type: resource
 description: Thie resource provides instruction on the operation of the accumet portable
   AP61 PH meter.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/926f5cafb5d21cf44d9ccdc0a078130c_uaca_appendix1.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/926f5cafb5d21cf44d9ccdc0a078130c_uaca_appendix1.pdf
+file_size: 246226
 file_type: application/pdf
 learning_resource_types:
 - Labs

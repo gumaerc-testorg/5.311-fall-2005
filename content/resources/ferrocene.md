@@ -5,7 +5,8 @@ description: This resource describes the purpose of preparation of ferrocene and
   references, experimental procedure, preparation of ferrocene, synthesis of ferrocene,
   Acetylation of Ferrocene in an ionic liquid, Acetylation of ferrocene with acetic
   anhydride in ionic liquid, and column chromatography.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/9917d701935385a4f4302f330687d6f8_ferrocene.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/9917d701935385a4f4302f330687d6f8_ferrocene.pdf
+file_size: 1545328
 file_type: application/pdf
 learning_resource_types:
 - Labs

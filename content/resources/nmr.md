@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information about the purpose of the experiment,
   safety, readings, and theory of the experiment.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/886a5c2655bd19e283f18e1951cc1b6f_nmr.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/886a5c2655bd19e283f18e1951cc1b6f_nmr.pdf
+file_size: 225517
 file_type: application/pdf
 learning_resource_types:
 - Labs

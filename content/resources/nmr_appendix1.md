@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides information on the simulation of H-NMR without
   a structure.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/55c139cf43bbc91ef04acd4c7b25ba73_nmr_appendix1.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/55c139cf43bbc91ef04acd4c7b25ba73_nmr_appendix1.pdf
+file_size: 262847
 file_type: application/pdf
 learning_resource_types:
 - Labs

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides guidelines to operate varian mercury plus for
   getting a H NMR.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/23cf24e48879e28c8c184136dd341779_nmr_appendix2.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/23cf24e48879e28c8c184136dd341779_nmr_appendix2.pdf
+file_size: 338212
 file_type: application/pdf
 learning_resource_types:
 - Labs

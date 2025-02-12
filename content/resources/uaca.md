@@ -2,7 +2,8 @@
 content_type: resource
 description: Thie resource provides information on the preparation, characterization,
   and potentiometric titration of an unknown aromatic carboxylic acid.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/128c63436f92b3bb9b5658cd21e81d7f_uaca.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/128c63436f92b3bb9b5658cd21e81d7f_uaca.pdf
+file_size: 1061870
 file_type: application/pdf
 learning_resource_types:
 - Labs

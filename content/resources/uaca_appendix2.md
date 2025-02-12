@@ -4,7 +4,8 @@ description: 'This resource provides brief introduction on the pattern of H NMR 
   benzoic acids
 
   analogs.'
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/28973df84f5217dd4ab067531dfdad5e_uaca_appendix2.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/28973df84f5217dd4ab067531dfdad5e_uaca_appendix2.pdf
+file_size: 277625
 file_type: application/pdf
 learning_resource_types:
 - Labs

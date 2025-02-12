@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource provides guidelines for kinetic runs on the Cary 100 Scan
   UV-visible spectrophotometer.
-file: /courses/5-311-introductory-chemical-experimentation-fall-2005/92ef0a206adee873db3c205a2196172f_kinetics_app2.pdf
+file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fall-2005/92ef0a206adee873db3c205a2196172f_kinetics_app2.pdf
+file_size: 204050
 file_type: application/pdf
 learning_resource_types:
 - Labs
