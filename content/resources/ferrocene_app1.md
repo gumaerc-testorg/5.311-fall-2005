@@ -6,7 +6,7 @@ file: /ol-ocw-studio-app/courses/5-311-introductory-chemical-experimentation-fal
 file_size: 234304
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
